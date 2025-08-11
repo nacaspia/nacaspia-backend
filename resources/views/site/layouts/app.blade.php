@@ -54,27 +54,31 @@
             </div>
             <div class="mobile-menu d-xl-none fix"></div>
             <div class="offset-button">
-                <a href="contact.html" class="rr-btn">
+                <a href="{{ route('site.contact') }}" class="rr-btn">
             <span class="btn-wrap">
-              <span class="text-one">Let's Talk</span>
-              <span class="text-two">Let's Talk</span>
+              <span class="text-one">Bizimlə Əlaqə</span>
+              <span class="text-two">Bizimlə Əlaqə</span>
             </span>
                 </a>
             </div>
             <div class="offset-widget-box">
-                <h2 class="title">Contact US</h2>
+                <h2 class="title">Əlaqə vasitələri</h2>
                 <div class="contact-meta">
                     <div class="contact-item">
                         <span class="icon"><i class="fa-solid fa-location-dot"></i></span>
-                        <span class="text">3891 Ranchview Dr. Richardson</span>
+                        <span class="text">Azərbaycan, Bakı</span>
                     </div>
                     <div class="contact-item">
                         <span class="icon"><i class="fa-solid fa-envelope"></i></span>
-                        <span class="text"><a href="mailto:hello@redoxagency.com">hello@redoxagency.com</a></span>
+                        <span class="text"><a href="mailto:info@nacaspia.com">info@nacaspia.com</a></span>
                     </div>
                     <div class="contact-item">
                         <span class="icon"><i class="fa-solid fa-phone"></i></span>
-                        <span class="text"><a href="tel:(505)555-0125">(505) 555-0125</a></span>
+                        <span class="text"><a href="tel:+994552956727">+994552956727</a></span>
+                    </div>
+                    <div class="contact-item">
+                        <span class="icon"><i class="fa-solid fa-phone"></i></span>
+                        <span class="text"><a href="tel:+994552952767">+994552952767</a></span>
                     </div>
                 </div>
             </div>
