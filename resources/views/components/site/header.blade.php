@@ -20,7 +20,7 @@
                     </nav>
                 </div>
                 <div class="header__navicon d-xl-none">
-                    <button class="side-toggle"><img src="{{ asset('site/assets/imgs/icon/icon-2.html') }}" alt="image"></button>
+                    <button class="side-toggle"><img src="{{ asset('site/assets/imgs/icon/icon-11.webp') }}" alt="image"></button>
                 </div>
             </div>
         </div>
