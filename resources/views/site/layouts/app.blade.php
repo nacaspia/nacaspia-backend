@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>NACaspia</title>
+    <meta name="google-site-verification" content="wt6leNPytFHHLhKhS5FA_PBo-FoisJGlqe9xE-S5UGY" />
     <!-- Fav Icon -->
     <link rel="icon" type="image/x-icon" href="{{ asset('site/assets/imgs/logo/favicon.png') }}">
     <!-- Vendor CSS Files -->
